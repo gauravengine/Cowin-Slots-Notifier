@@ -1,6 +1,6 @@
 # Cowin-Slots-Notifier
 
-![COWIN-SLOTS-NOTIFIER](https://ibb.co/gmCm8M0)
+![COWIN-SLOTS-NOTIFIER](https://i.ibb.co/q7w78MH/Screenshot-2021-06-10-210618.png)
 
 ## YouTube Demo
 - Check the demo for how this works on YouTube [here](https://youtu.be/abZJ_-efGyE).
