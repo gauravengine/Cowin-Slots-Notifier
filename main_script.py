@@ -84,7 +84,7 @@ while(True):
         count = 0
         while (count < 3):
             count = count + 1
-            playsound(r'notification_sound.wav')
+            winsound.PlaySound('notification_sound.wav', winsound.SND_FILENAME)
         print("Sleeping for 30 seconds")
         time.sleep(30)
 
