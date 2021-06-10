@@ -1,5 +1,10 @@
 # Cowin-Slots-Notifier
 
+![COWIN-SLOTS-NOTIFIER](https://ibb.co/gmCm8M0)
+
+## YouTube Demo
+- Check the demo for how this works on YouTube [here](https://youtu.be/abZJ_-efGyE).
+
 ## Features
 - Sit back and relax - the script will notify you whenever a slot is available in your area
 - It makes API calls in every 10 seconds so that you get notified as soon as possible
