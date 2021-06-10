@@ -21,4 +21,5 @@ python main_script.py
 - Else Enter 2 if you want to Search Vaccines District Wise
     - Check your state_id from list and enter it
     - Then Check your  district_id and enter it
-
+- Now the bot will check for vaccines available for age group 18+ in every 10 seconds 
+- If Slots are available it will play a notification sound and will sleep for 30 seconds after notifying all centers available 
